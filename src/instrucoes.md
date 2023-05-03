@@ -6,7 +6,7 @@
 - ok [React] componente usando props
 - ok [React] componente com eventos
 
-- no [React] componente com estado
+- ok [React] componente com estado
 - no [React] comunicação entre componentes (direta)
 - no [React] comunicação entre componentes (indireta) 
 - no [React] rederização condicional
