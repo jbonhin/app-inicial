@@ -7,7 +7,7 @@
 - ok [React] componente com eventos
 
 - ok [React] componente com estado
-- no [React] comunicação entre componentes (direta)
-- no [React] comunicação entre componentes (indireta) 
+- ok [React] comunicação entre componentes (direta)
+- ok [React] comunicação entre componentes (indireta) 
 - no [React] rederização condicional
 - no [React] rederização de listas
